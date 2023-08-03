@@ -1,1 +1,1 @@
-print("Rexza Arya Ananda Lubis")
+print("Rexza Arya Ananda L.")
